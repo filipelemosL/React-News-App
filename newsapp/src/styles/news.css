@@ -1,0 +1,9 @@
+.news-container {
+    height: 1000px;
+    width: 100%;
+
+}
+
+.news-container {
+    border: 1px solid red;
+}
